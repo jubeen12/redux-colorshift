@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/redux-colorshift/static/js/main.113bc92c.chunk.js",
+    "main.js.map": "/redux-colorshift/static/js/main.113bc92c.chunk.js.map",
+    "runtime~main.js": "/redux-colorshift/static/js/runtime~main.44f88933.js",
+    "runtime~main.js.map": "/redux-colorshift/static/js/runtime~main.44f88933.js.map",
+    "static/js/2.9aca150c.chunk.js": "/redux-colorshift/static/js/2.9aca150c.chunk.js",
+    "static/js/2.9aca150c.chunk.js.map": "/redux-colorshift/static/js/2.9aca150c.chunk.js.map",
+    "index.html": "/redux-colorshift/index.html",
+    "precache-manifest.f499a7859b7ca55e82058383f72d361b.js": "/redux-colorshift/precache-manifest.f499a7859b7ca55e82058383f72d361b.js",
+    "service-worker.js": "/redux-colorshift/service-worker.js"
+  }
+}
